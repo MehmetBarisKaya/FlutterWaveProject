@@ -1,5 +1,8 @@
 enum ProductServicePath {
-  getAllProduct('/urunler/tumUrunleriGetir.php');
+  getAllProduct('/urunler/tumUrunleriGetir.php'),
+  addProductToCart('/urunler/sepeteUrunEkle.php'),
+  getAllProductFromCart('/urunler/sepettekiUrunleriGetir.php'),
+  deleteProductFromCart('/urunler/sepettenUrunSil.php');
 
   const ProductServicePath(this.value);
   final String value;
