@@ -34,7 +34,6 @@ CartProduct _$CartProductFromJson(Map<String, dynamic> json) => CartProduct(
 
 Map<String, dynamic> _$CartProductToJson(CartProduct instance) =>
     <String, dynamic>{
-      'sepetId': instance.sepetId,
       'ad': instance.ad,
       'resim': instance.resim,
       'kategori': instance.kategori,

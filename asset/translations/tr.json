@@ -1,0 +1,82 @@
+{
+    "general": {
+        "error": "Hata"
+    },
+    "home": {
+        "welcomeMessage": "Hoşgeldin",
+        "searchPlaceholder": "Ara",
+        "errorMessage": "Hata"
+    },
+    "login": {
+        "title": "Giriş Yap",
+        "description": "Lütfen Hesaba Giriş Yapın",
+        "form": {
+            "email": {
+                "label": "Email",
+                "validator": "Email adresi gerekli"
+            },
+            "password": {
+                "label": "Şifre",
+                "validator": "Şifre gerekli"
+            },
+            "button": "Giriş Yap",
+            "loading": "Lütfen bekleyin..."
+        },
+        "error": "Bir hata oluştu",
+        "link": {
+            "text": "Hesabın yok mu? Kayıt ol"
+        }
+    },
+    "register": {
+        "title": "Kayıt Ol",
+        "description": "Hesabnı oluştur ve keşfetmeye başla",
+        "form": {
+            "username": {
+                "label": "Kullanıcı Adı",
+                "validator": "Kullanıcı adı gerekli"
+            },
+            "email": {
+                "label": "Email",
+                "validator": "Email adresi gerekli"
+            },
+            "password": {
+                "label": "Şifre",
+                "validator": {
+                    "empty": "Şifre gerekli",
+                    "length": "Şifre en az 6 karakter olmalı"
+                }
+            }
+        },
+        "button": {
+            "register": "Kayıt Ol",
+            "loading": "Lütfen bekleyin..."
+        },
+        "link": {
+            "text": "Zaten hesabın var mı? Giriş yap"
+        },
+        "error": "Bir hata oluştu"
+    },
+    "productDetail": {
+        "addToCart": "Sepete Ekle",
+        "productAddedToCart": "Ürün sepete eklendi",
+        "errorOccurred": "Bir hata oluştu",
+        "brand": "Marka",
+        "category": "Kategori"
+    },
+    "cart": {
+        "title": "Sepetim",
+        "totalAmount": "Toplam Tutar",
+        "goToPayment": "Ödemeye Geç",
+        "errorOccurred": "Bir hata oluştu"
+    },
+    "profile": {
+        "language": "Dil",
+        "Theme": "Tema",
+        "Logout": "Çıkış Yap"
+    },
+    "tabBar": {
+        "products": "Ürünler",
+        "cart": "Sepet",
+        "profile": "Profil"
+    }
+}

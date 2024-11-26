@@ -5,7 +5,7 @@ import 'package:flutter_bootcamp_project/product/constants/enums/product_service
 import 'package:flutter_bootcamp_project/product/model/base_response.dart';
 import 'package:flutter_bootcamp_project/product/model/cart_product_response.dart';
 import 'package:flutter_bootcamp_project/product/model/product_response.dart';
-import 'package:flutter_bootcamp_project/product/service/product_network_service.dart';
+import 'package:flutter_bootcamp_project/product/service/network/product_network_service.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

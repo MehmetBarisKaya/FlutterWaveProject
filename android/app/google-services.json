@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217449836834",
+    "project_id": "flutterwavebootcamp",
+    "storage_bucket": "flutterwavebootcamp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217449836834:android:c309bffba785adbf74b57b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bootcamp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQGazwNvblGaLlY8pmDd_Kpl4UiMb1WLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

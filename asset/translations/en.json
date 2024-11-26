@@ -1,0 +1,82 @@
+{
+    "general": {
+        "error": "Error"
+    },
+    "home": {
+        "welcomeMessage": "Welcome",
+        "searchPlaceholder": "Search",
+        "errorMessage": "Error"
+    },
+    "login": {
+        "title": "Login",
+        "description": "Please sign in to your account",
+        "form": {
+            "email": {
+                "label": "Email",
+                "validator": "Enter mail"
+            },
+            "password": {
+                "label": "Password",
+                "validator": "Enter password"
+            },
+            "button": "Login",
+            "loading": "Please Wait..."
+        },
+        "error": "Bir hata oluştu",
+        "link": {
+            "text": "Don't have an account? Register "
+        }
+    },
+    "register": {
+        "title": "Register",
+        "description": "Create an account to start looking for the product",
+        "form": {
+            "username": {
+                "label": "Username",
+                "validator": "Enter username"
+            },
+            "email": {
+                "label": "Email",
+                "validator": "Enter mail"
+            },
+            "password": {
+                "label": "Password",
+                "validator": {
+                    "empty": "Enter password",
+                    "length": "Password must be valid"
+                }
+            }
+        },
+        "button": {
+            "register": "Register",
+            "loading": "Wait..."
+        },
+        "link": {
+            "text": "Do have an account? Sign In"
+        },
+        "error": "Error"
+    },
+    "productDetail": {
+        "addToCart": "Add To Cart",
+        "productAddedToCart": "Product Successfully Added",
+        "errorOccurred": "Error occurred while adding",
+        "brand": "Brand",
+        "category": "Category"
+    },
+    "cart": {
+        "title": "My Cart",
+        "totalAmount": "Total Price",
+        "goToPayment": "Checkout",
+        "errorOccurred": "Error"
+    },
+    "profile": {
+        "language": "Language",
+        "Theme": "Theme",
+        "Logout": "Logout"
+    },
+    "tabBar": {
+        "products": "Products",
+        "cart": "Cart",
+        "profile": "Profile"
+    }
+}

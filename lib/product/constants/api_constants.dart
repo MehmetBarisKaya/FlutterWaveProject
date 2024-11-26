@@ -4,4 +4,5 @@ final class ApiConstants {
   static const Duration connectTimeout = Duration(seconds: 5);
   static const Duration receiveTimeout = Duration(seconds: 3);
   static const String username = "baris_kaya";
+  static const String imageUrl = 'http://kasimadalan.pe.hu/urunler/resimler/';
 }

@@ -1,0 +1,66 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class  LocaleKeys {
+  static const general_error = 'general.error';
+  static const general = 'general';
+  static const home_welcomeMessage = 'home.welcomeMessage';
+  static const home_searchPlaceholder = 'home.searchPlaceholder';
+  static const home_errorMessage = 'home.errorMessage';
+  static const home = 'home';
+  static const login_title = 'login.title';
+  static const login_description = 'login.description';
+  static const login_form_email_label = 'login.form.email.label';
+  static const login_form_email_validator = 'login.form.email.validator';
+  static const login_form_email = 'login.form.email';
+  static const login_form_password_label = 'login.form.password.label';
+  static const login_form_password_validator = 'login.form.password.validator';
+  static const login_form_password = 'login.form.password';
+  static const login_form_button = 'login.form.button';
+  static const login_form_loading = 'login.form.loading';
+  static const login_form = 'login.form';
+  static const login_error = 'login.error';
+  static const login_link_text = 'login.link.text';
+  static const login_link = 'login.link';
+  static const login = 'login';
+  static const register_title = 'register.title';
+  static const register_description = 'register.description';
+  static const register_form_username_label = 'register.form.username.label';
+  static const register_form_username_validator = 'register.form.username.validator';
+  static const register_form_username = 'register.form.username';
+  static const register_form_email_label = 'register.form.email.label';
+  static const register_form_email_validator = 'register.form.email.validator';
+  static const register_form_email = 'register.form.email';
+  static const register_form_password_label = 'register.form.password.label';
+  static const register_form_password_validator_empty = 'register.form.password.validator.empty';
+  static const register_form_password_validator_length = 'register.form.password.validator.length';
+  static const register_form_password_validator = 'register.form.password.validator';
+  static const register_form_password = 'register.form.password';
+  static const register_form = 'register.form';
+  static const register_button_register = 'register.button.register';
+  static const register_button_loading = 'register.button.loading';
+  static const register_button = 'register.button';
+  static const register_link_text = 'register.link.text';
+  static const register_link = 'register.link';
+  static const register_error = 'register.error';
+  static const register = 'register';
+  static const productDetail_addToCart = 'productDetail.addToCart';
+  static const productDetail_productAddedToCart = 'productDetail.productAddedToCart';
+  static const productDetail_errorOccurred = 'productDetail.errorOccurred';
+  static const productDetail_brand = 'productDetail.brand';
+  static const productDetail_category = 'productDetail.category';
+  static const productDetail = 'productDetail';
+  static const cart_title = 'cart.title';
+  static const cart_totalAmount = 'cart.totalAmount';
+  static const cart_goToPayment = 'cart.goToPayment';
+  static const cart_errorOccurred = 'cart.errorOccurred';
+  static const cart = 'cart';
+  static const profile_language = 'profile.language';
+  static const profile_Theme = 'profile.Theme';
+  static const profile_Logout = 'profile.Logout';
+  static const profile = 'profile';
+  static const tabBar_products = 'tabBar.products';
+  static const tabBar_cart = 'tabBar.cart';
+  static const tabBar_profile = 'tabBar.profile';
+  static const tabBar = 'tabBar';
+
+}
